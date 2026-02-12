@@ -43,5 +43,4 @@ I am using this repo to improve my problem-solving skills and strengthen my unde
 ## 🚀 How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/DSA.git
+   git clone https://github.com/lakshmi-prasanna-hub/DSA.git
